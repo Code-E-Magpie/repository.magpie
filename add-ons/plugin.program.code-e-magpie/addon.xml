@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<addon id = "plugin.program.code-e-magpie" name = "Abacus Program" version = "1.0.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+	<requires>
+		<import addon = "xbmc.python" version = "3.0.0"/>
+	</requires>
+	<extension point = "xbmc.python.pluginsource" library = "abacus_program.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point = "xbmc.addon.metadata">
+	<summary lang = "en">Tally of Code-E-Magpie development on GitHub</summary>
+	<description lang="en">[COLOR dimgray][B]Abacus Program[/B]
+[/COLOR]
+Tally of [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] development on GitHub.
+[COLOR darkgray]
+The Abacus Program has a menu of information, tally of [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] development on GitHub and an exit button.
+[/COLOR]
+[COLOR silver]
+IMPORTANT:
+Distribution of this add-on is NOT permitted.
+This add-on is exclusively distributed by C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
+
+The code and files of this add-on are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
+[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>resources/media/icon.png</icon>
+		<fanart>resources/media/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
