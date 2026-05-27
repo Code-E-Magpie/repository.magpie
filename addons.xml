@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons>
+<addon id="repository.magpie" name="Magpie Repository" version="1.0.0" provider-name="[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+	<extension point="xbmc.addon.repository" name="Magpie Repository">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Code-E-Magpie/repository.magpie/main/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Code-E-Magpie/repository.magpie/main/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Code-E-Magpie/repository.magpie/main/add-ons/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	<summary lang = "en">Repository of [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] add-ons</summary>
+	<description lang="en">[COLOR dimgray][B]Magpie Repository[/B]
+[/COLOR]
+The official repository of [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] add-ons.
+[COLOR darkgray]
+Distribution of the Magpie Repository is permitted.
+[/COLOR]
+[COLOR silver]
+IMPORTANT:
+Distribution of C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e add-ons are NOT permitted.
+
+C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e add-ons are exclusively distributed via the 
+Magpie Repository and / or [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] on GitHub.
+
+The code and files of these add-ons are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
+[/COLOR]</description>
+	<license></license>
+	<language></language>
+	<website></website>
+	<news></news>
+	<platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	</extension>
+</addon>
+
+<addon id = "plugin.program.code-e-magpie" name = "Abacus Program" version = "1.0.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+	<requires>
+		<import addon = "xbmc.python" version = "3.0.0"/>
+	</requires>
+	<extension point = "xbmc.python.pluginsource" library = "abacus_program.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point = "xbmc.addon.metadata">
+	<summary lang = "en">Tally of Code-E-Magpie development on GitHub</summary>
+	<description lang="en">[COLOR dimgray][B]Abacus Program[/B]
+[/COLOR]
+Tally of [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] development on GitHub.
+[COLOR darkgray]
+The Abacus Program has a menu of information, tally of [COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR] development on GitHub and an exit button.
+[/COLOR]
+[COLOR silver]
+IMPORTANT:
+Distribution of this add-on is NOT permitted.
+This add-on is exclusively distributed by C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
+
+The code and files of this add-on are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
+[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>resources/media/icon.png</icon>
+		<fanart>resources/media/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+
+<addon id = "plugin.program.reorder-favourites" name = "Reorder Favourites" version = "1.2.4" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+	<requires>
+		<import addon = "xbmc.python" version = "3.0.0"/>
+	</requires>
+	<extension point = "xbmc.python.pluginsource" library = "reorder_favourites.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point = "xbmc.addon.metadata">
+	<summary lang = "en">Easy to use reordering of favourites</summary>
+	<description lang = "en">[COLOR yellow][B]Reorder Favourites[/B]
+[/COLOR]
+Please read the Instructions before use.
+[COLOR silver]
+Please see the Changelog to see what is new.
+[/COLOR]
+[COLOR darkgray]
+To view the Instructions and the Changelog see the
+User Information.
+
+To view the User Information:
+open the add-on to access the menu and click on
+"U s e r   I n f o r m a t i o n  >".
+[/COLOR]
+[COLOR silver]
+IMPORTANT:
+Distribution of this add-on is NOT permitted.
+This add-on is exclusively distributed via the Magpie Repository
+and / or C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
+
+The code and files of this add-on are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
+[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>resources/media/icon.png</icon>
+		<fanart>resources/media/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+</addons>
