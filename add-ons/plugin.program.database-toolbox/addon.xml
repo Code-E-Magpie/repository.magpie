@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<addon id = "plugin.program.database-toolbox" name = "Database Toolbox" version = "1.3.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+	<requires>
+		<import addon = "xbmc.python" version = "3.0.0"/>
+	</requires>
+	<extension point = "xbmc.python.pluginsource" library = "database_toolbox.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point = "xbmc.addon.metadata">
+	<summary lang = "en">Easy to use database toolbox</summary>
+	<description lang = "en">[COLOR yellow][B]Database Toolbox[/B]
+[/COLOR]
+Please read the Instructions before use.
+[COLOR silver]
+Please see the Changelog to see what is new.
+[/COLOR]
+[COLOR darkgray]
+To view the Instructions and the Changelog:
+open the add-on to access the menu and click on
+'U s e r   I n f o r m a t i o n  >'
+[/COLOR]
+[COLOR silver]
+IMPORTANT:
+Distribution of this add-on is NOT permitted.
+This add-on is exclusively distributed via the Magpie Repository
+and / or C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
+
+The code and files of this add-on are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
+[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>resources/media/icon.png</icon>
+		<fanart>resources/media/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
