@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
-<addon id = "plugin.program.code-e-magpie" name = "Abacus Program" version = "1.0.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+<addon id = "plugin.program.code-e-magpie" name = "Abacus Program" version = "1.2.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
 	<requires>
 		<import addon = "xbmc.python" version = "3.0.0"/>
 	</requires>
@@ -17,7 +17,8 @@ The Abacus Program has a menu of information, tally of [COLOR silver]C[COLOR dim
 [COLOR silver]
 IMPORTANT:
 Distribution of this add-on is NOT permitted.
-This add-on is exclusively distributed by C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
+This add-on is exclusively distributed via the Magpie Repository
+and / or C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
 
 The code and files of this add-on are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
 [/COLOR]</description>
