@@ -1,0 +1,350 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR dimgray] Magpie Repository[/COLOR][COLOR dimgray][LIGHT][I] (repository.magpie)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/repository.magpie/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR dimgray] Template Repository[/COLOR][COLOR dimgray][LIGHT][I] (repository.template)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/repository.template/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR dimgray] Abacus Program[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.code-e-magpie)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.code-e-magpie/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] Database Toolbox[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.database-toolbox)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.database-toolbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] Maintenance Toolbox[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.maintenance-toolbox)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.maintenance-toolbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] Reorder Favourites[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.reorder-favourites)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.reorder-favourites/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Code[/LIGHT][COLOR gray] :[/COLOR][COLOR silver] C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][COLOR dimgray][LIGHT][I] (/storage/Code-E-Magpie/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">/storage/Code-E-Magpie/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Data[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] Maintenance Toolbox[/COLOR] Settings[COLOR dimgray][LIGHT][I] (plugin.program.maintenance-toolbox)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/userdata/addon_data/plugin.program.maintenance-toolbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Files[/LIGHT][COLOR gray] :[/COLOR] Download/Downloader[COLOR dimgray][LIGHT][I] (/storage/emulated/0/Download/Downloader/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">/storage/emulated/0/Download/Downloader/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Files[/LIGHT][COLOR gray] :[/COLOR] Download/Kodi[COLOR dimgray][LIGHT][I] (/storage/emulated/0/Download/Kodi/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">/storage/emulated/0/Download/Kodi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Files[/LIGHT][COLOR gray] :[/COLOR] Download[COLOR dimgray][LIGHT][I] (/storage/emulated/0/Download/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">/storage/emulated/0/Download/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Files[/LIGHT][COLOR gray] :[/COLOR] Kodi Backup[COLOR dimgray][LIGHT][I] (/storage/Kodi Backup)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">/storage/Kodi Backup</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] addon_data[COLOR dimgray][LIGHT][I] (special://home/userdata/addon_data/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/userdata/addon_data/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] addons/packages[COLOR dimgray][LIGHT][I] (special://home/addons/packages/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] addons/temp[COLOR dimgray][LIGHT][I] (special://home/addons/temp/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/temp/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] addons[COLOR dimgray][LIGHT][I] (special://home/addons/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] builtin addons[COLOR dimgray][LIGHT][I] (special://xbmc/addons/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://xbmc/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] builtin addons[COLOR dimgray][LIGHT][I] (special://xbmcbinaddons/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://xbmcbinaddons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] builtin[COLOR dimgray][LIGHT][I] (special://xbmc/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://xbmc/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] database[COLOR dimgray][LIGHT][I] (special://database/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://database/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] masterprofile[COLOR dimgray][LIGHT][I] (special://masterprofile/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://masterprofile/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] media[COLOR dimgray][LIGHT][I] (special://home/media/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/media/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] profile[COLOR dimgray][LIGHT][I] (special://profile/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://profile/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] skin[COLOR dimgray][LIGHT][I] (special://skin/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://skin/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] system[COLOR dimgray][LIGHT][I] (special://home/system/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/system/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] temp/archive_cache[COLOR dimgray][LIGHT][I] (special://temp/archive_cache/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://temp/archive_cache/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] temp[COLOR dimgray][LIGHT][I] (special://home/temp/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/temp/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] temp[COLOR dimgray][LIGHT][I] (special://temp/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://temp/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] thumbnails[COLOR dimgray][LIGHT][I] (special://thumbnails/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://thumbnails/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] userdata[COLOR dimgray][LIGHT][I] (special://home/userdata/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/userdata/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Official[/LIGHT][COLOR gray] :[/COLOR][COLOR blue] Kodi Add-on repository[/COLOR][COLOR dimgray][LIGHT][I] (official kodi.tv mirror)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://mirrors.kodi.tv/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Official[/LIGHT][COLOR gray] :[/COLOR][COLOR blue] Kodi releases[/COLOR][COLOR dimgray][LIGHT][I] (official kodi.tv mirror)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://mirrors.kodi.tv/releases/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] a4k[/COLOR][COLOR dimgray][LIGHT][I] (OpenWizard)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://a4k-openproject.github.io/repository.openwizard/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Aliunde[/COLOR][COLOR dimgray][LIGHT][I] (Aliunde Maintenance)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://fuse99.com/aliunde/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] arxtic-ape[/COLOR][COLOR dimgray][LIGHT][I] (ApeX Sports)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://arxtic-ape.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Bugatsinho[/COLOR][COLOR dimgray][LIGHT][I] (SportHD)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://bugatsinho.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Butter[/COLOR][COLOR dimgray][LIGHT][I] (Sportz)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://j1wizard.net/butter/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] cMaN[/COLOR][COLOR dimgray][LIGHT][I] (Fluxus IPTV)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://cmanbuildsxyz.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Code-E-Magpie Simple[/COLOR][COLOR dimgray][LIGHT][I] (GitHub source w/o Kodi repository)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://Code-E-Magpie.github.io/repository.simple/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Code-E-Magpie Template[/COLOR][COLOR dimgray][LIGHT][I] (GitHub repository example)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://Code-E-Magpie.github.io/repository.template/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Diggz[/COLOR][COLOR dimgray][LIGHT][I] (The TV App)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://diggz1.me/diggzrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Digital King[/COLOR][COLOR dimgray][LIGHT][I] (OptiKlean)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://www.digitalking.it/kodi-repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] doko-desuka[/COLOR][COLOR dimgray][LIGHT][I] (Order Favourites)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://doko-desuka.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] drinfernoo[/COLOR][COLOR dimgray][LIGHT][I] (GitHub repository example)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://drinfernoo.github.io/repository.example</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] JewBMX[/COLOR][COLOR dimgray][LIGHT][I] (K_Cleaner)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://jewbmx.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] jurialmunkey[/COLOR][COLOR dimgray][LIGHT][I] (GitHub repository example)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://jurialmunkey.github.io/repository.jurialmunkey/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Magnetic[/COLOR][COLOR dimgray][LIGHT][I] (Mad Titan Sports)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://magnetic.website/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Magpie[/COLOR][COLOR dimgray][LIGHT][I] (Maintenance Toolbox)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://Code-E-Magpie.github.io/repository.magpie/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] MB-KODI[/COLOR][COLOR dimgray][LIGHT][I] (Manage Kodi Favourites)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://m-borsch.github.io/MB-KODI-ADDONS/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] mbebe[/COLOR][COLOR dimgray][LIGHT][I] (Sportowa)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://mbebe.github.io/blomqvist/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Mullafabz[/COLOR][COLOR dimgray][LIGHT][I] (Rising Tides)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://mullafabz.xyz/Repository/K19/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Narcacist[/COLOR][COLOR dimgray][LIGHT][I] (tvOne)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://mylostsoulspace.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] peno64[/COLOR][COLOR dimgray][LIGHT][I] (EZ Maintenance+)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://peno64.github.io/repository.peno64/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Simple[/COLOR][COLOR dimgray][LIGHT][I] (Simple Repository)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://Code-E-Magpie.github.io/repository.simple/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] SlyGuy[/COLOR][COLOR dimgray][LIGHT][I] (Plex / Pluto / Samsung)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://k.slyguy.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Team Crew[/COLOR][COLOR dimgray][LIGHT][I] (Daddylive)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://team-crew.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] The Loop[/COLOR][COLOR dimgray][LIGHT][I] (The Loop)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://loopaddon.uk/theloop/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] The Red[/COLOR][COLOR dimgray][LIGHT][I] (tvOne)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://repo.redwizard.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] The South Paw[/COLOR][COLOR dimgray][LIGHT][I] (tvOne)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://southpawlefty2468rocky.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] thegigibeast[/COLOR][COLOR dimgray][LIGHT][I] (GitHub repository example)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://thegigibeast.github.io/repository</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] TheLab[/COLOR][COLOR dimgray][LIGHT][I] (LNTv / RBTv / SwiftTv / TapTv)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://th3l48.github.io/TheLab/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Twisted Nuts[/COLOR][COLOR dimgray][LIGHT][I] (Twisted)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">http://twistednuts.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] WorldLiveTV[/COLOR][COLOR dimgray][LIGHT][I] (WorldLiveTV)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://worldlivetv.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] SPACE[/LIGHT][COLOR gray] :[/COLOR][COLOR blue] BL Sport[/COLOR] delete cache.db[COLOR dimgray][LIGHT][I] (special://home/addons/plugin.video.blsport/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.video.blsport/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] SPACE[/LIGHT][COLOR gray] :[/COLOR][COLOR blue] Mad Titan Sports[/COLOR] delete cache.db[COLOR dimgray][LIGHT][I] (special://home/addons/plugin.video.madtitansports/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.video.madtitansports/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>×[LIGHT] SPACE[/LIGHT][COLOR gray] :[/COLOR][COLOR blue] The Loop[/COLOR] delete loop_cache.db[COLOR dimgray][LIGHT][I] (special://home/addons/plugin.video.the-loop/resources/lib/data/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.video.the-loop/resources/lib/data/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
