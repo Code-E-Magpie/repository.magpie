@@ -51,7 +51,7 @@ Code-E-Magpie add-ons are exclusively distributed via the Magpie Repository and 
 The code and files of these add-ons are free for use, subject to crediting Code-E-Magpie.
 
 
-# Kodi special favourites and sources
+# Kodi special favourites & sources
 
 Kodi special favourites and sources released on GitHub as other Kodi users may find them useful.
 
