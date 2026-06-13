@@ -49,3 +49,42 @@ Distribution of Code-E-Magpie add-ons are NOT permitted.
 Code-E-Magpie add-ons are exclusively distributed via the Magpie Repository and / or Code-E-Magpie on GitHub.
 
 The code and files of these add-ons are free for use, subject to crediting Code-E-Magpie.
+
+
+# Kodi special favourites and sources
+
+Kodi special favourites and sources released on GitHub as other Kodi users may find them useful.
+
+Click on the favourites.xml / sources.xml file to view the file. Then click on the download icon to download the file.
+
+Please make a backup copy of your favourites.xml / sources.xml before trying these.
+
+Individual records can be copied from these files using a simple text file editor e.g. QuickEdit.
+
+Favourites / sources in these files will be visible in Kodi even if the add-ons are not installed. The favourite / source can be highlighted but will not function (no thumbnail).
+
+
+# Kodi special favourites
+
+![icon](https://github.com/Code-E-Magpie/repository.magpie/blob/main/favourites.png)
+
+The favourites.xml file contains favourites to navigate around Kodi using special paths.
+
+There are also favourites to check thumbnails, a section of maintenance recommendations and a selection of general favourites (including video add-ons and repositories).
+
+The general favourites are grouped into categories using different colours.
+
+Each category uses two shades of a colour. The brighter shade to highlight the ones used regularly.
+
+The first three characters are a code used to identify the add-on.
+
+After the name of the favourite is the path that was used in the add-on to create it.
+
+
+# Kodi special sources
+
+![icon](https://github.com/Code-E-Magpie/repository.magpie/blob/main/sources.png)
+
+The sources.xml file contains sources to navigate around Kodi using special paths to access files and folders.
+
+There are also sources for official Kodi releases, the Kodi Add-on repository and other repositories. Examples of sources for cache databases, local data and files are also included.
