@@ -41,6 +41,13 @@ For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.mai
 For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.reorder-favourites
 
 
+# System Log Toolbox for Kodi
+
+![icon](https://github.com/Code-E-Magpie/plugin.program.system-log-toolbox/blob/main/resources/media/icon.png)
+
+For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.system-log-toolbox
+
+
 # IMPORTANT
 
 Distribution of the Magpie Repository is permitted.
