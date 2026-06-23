@@ -44,6 +44,11 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] System Log Toolbox[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.system-log-toolbox)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.system-log-toolbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>×[LIGHT] Code[/LIGHT][COLOR gray] :[/COLOR][COLOR silver] C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][COLOR dimgray][LIGHT][I] (/storage/Code-E-Magpie/)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">/storage/Code-E-Magpie/</path>
             <allowsharing>true</allowsharing>
