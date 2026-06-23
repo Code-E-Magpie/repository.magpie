@@ -37,7 +37,7 @@ The code and files of these add-ons are free for use, subject to crediting C[COL
 	</extension>
 </addon>
 
-<addon id = "plugin.program.code-e-magpie" name = "Abacus Program" version = "1.2.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+<addon id = "plugin.program.code-e-magpie" name = "Abacus Program" version = "1.2.1" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
 	<requires>
 		<import addon = "xbmc.python" version = "3.0.0"/>
 	</requires>
@@ -110,7 +110,7 @@ The code and files of this add-on are free for use, subject to crediting C[COLOR
 	</extension>
 </addon>
 
-<addon id = "plugin.program.reorder-favourites" name = "Reorder Favourites" version = "1.5.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+<addon id = "plugin.program.reorder-favourites" name = "Reorder Favourites" version = "1.5.1" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
 	<requires>
 		<import addon = "xbmc.python" version = "3.0.0"/>
 	</requires>
@@ -120,6 +120,45 @@ The code and files of this add-on are free for use, subject to crediting C[COLOR
 	<extension point = "xbmc.addon.metadata">
 	<summary lang = "en">Easy to use reordering of favourites</summary>
 	<description lang = "en">[COLOR yellow][B]Reorder Favourites[/B]
+[/COLOR]
+Please read the Instructions before use.
+[COLOR silver]
+Please see the Changelog to see what is new.
+[/COLOR]
+[COLOR darkgray]
+To view the Instructions and the Changelog:
+open the add-on to access the menu and click on
+'U s e r   I n f o r m a t i o n  >'
+[/COLOR]
+[COLOR silver]
+IMPORTANT:
+Distribution of this add-on is NOT permitted.
+This add-on is exclusively distributed via the Magpie Repository
+and / or C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e on GitHub.
+
+The code and files of this add-on are free for use, subject to crediting C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e.
+[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>resources/media/icon.png</icon>
+		<fanart>resources/media/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+
+<addon id = "plugin.program.system-log-toolbox" name = "System Log Toolbox" version = "1.7.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+	<requires>
+		<import addon = "xbmc.python" version = "3.0.0"/>
+	</requires>
+	<extension point = "xbmc.python.pluginsource" library = "system_log_toolbox.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point = "xbmc.addon.metadata">
+	<summary lang = "en">Easy to use log toolbox</summary>
+	<description lang = "en">[COLOR yellow][B]System Log Toolbox[/B]
 [/COLOR]
 Please read the Instructions before use.
 [COLOR silver]
