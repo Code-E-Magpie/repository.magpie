@@ -16,34 +16,34 @@ For further details see:<br/>https://kodi.wiki/view/Add-on_manager
 
 
 # Abacus Program for Kodi
-
+https://github.com/Code-E-Magpie/repository.magpie/blob/main/add-ons/plugin.program.code-e-magpie/resources/media/icon.png
 The Abacus Program has a menu of information, tally of Code-E-Magpie development on GitHub and an exit button.
 
 
 # Database Toolbox for Kodi
 
-![icon](https://github.com/Code-E-Magpie/plugin.program.database-toolbox/blob/main/resources/media/icon.png)
+![icon](https://github.com/Code-E-Magpie/plugin.program.database-toolbox/blob/main/add-ons/plugin.program.database-toolbox/resources/media/icon.png)
 
 For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.database-toolbox
 
 
 # Maintenance Toolbox for Kodi
 
-![icon](https://github.com/Code-E-Magpie/plugin.program.maintenance-toolbox/blob/main/resources/media/icon.png)
+![icon](https://github.com/Code-E-Magpie/plugin.program.maintenance-toolbox/blob/main/add-ons/plugin.program.maintenance-toolbox/resources/media/icon.png)
 
 For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.maintenance-toolbox
 
 
 # Reorder Favourites for Kodi
 
-![icon](https://github.com/Code-E-Magpie/plugin.program.reorder-favourites/blob/main/resources/media/icon.png)
+![icon](https://github.com/Code-E-Magpie/plugin.program.reorder-favourites/blob/main/add-ons/plugin.program.reorder-favourites/resources/media/icon.png)
 
 For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.reorder-favourites
 
 
 # System Log Toolbox for Kodi
 
-![icon](https://github.com/Code-E-Magpie/plugin.program.system-log-toolbox/blob/main/resources/media/icon.png)
+![icon](https://github.com/Code-E-Magpie/plugin.program.system-log-toolbox/blob/main/add-ons/plugin.program.system-log-toolbox/resources/media/icon.png)
 
 For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.system-log-toolbox
 
