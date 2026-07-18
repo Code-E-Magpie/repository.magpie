@@ -71,7 +71,7 @@ The code and files of this add-on are free for use, subject to crediting C[COLOR
 	</extension>
 </addon>
 
-<addon id = "plugin.program.database-toolbox" name = "Database Toolbox" version = "2.10.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+<addon id = "plugin.program.database-toolbox" name = "Database Toolbox" version = "2.10.1" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
 	<requires>
 		<import addon = "xbmc.python" version = "3.0.0"/>
 	</requires>
@@ -110,7 +110,7 @@ The code and files of this add-on are free for use, subject to crediting C[COLOR
 	</extension>
 </addon>
 
-<addon id = "plugin.program.reorder-favourites" name = "Reorder Favourites" version = "1.5.1" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+<addon id = "plugin.program.reorder-favourites" name = "Reorder Favourites" version = "1.6.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
 	<requires>
 		<import addon = "xbmc.python" version = "3.0.0"/>
 	</requires>
@@ -149,7 +149,7 @@ The code and files of this add-on are free for use, subject to crediting C[COLOR
 	</extension>
 </addon>
 
-<addon id = "plugin.program.system-log-toolbox" name = "System Log Toolbox" version = "1.7.0" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
+<addon id = "plugin.program.system-log-toolbox" name = "System Log Toolbox" version = "1.7.1" provider-name = "[B][COLOR silver]C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][/B]">
 	<requires>
 		<import addon = "xbmc.python" version = "3.0.0"/>
 	</requires>
