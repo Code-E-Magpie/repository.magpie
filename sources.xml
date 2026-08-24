@@ -44,13 +44,13 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] System Log Toolbox[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.system-log-toolbox)[/I][/LIGHT][/COLOR]</name>
-            <path pathversion="1">special://home/addons/plugin.program.system-log-toolbox/</path>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] Reorder Favourites SE[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.reorder-favourites-se)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.reorder-favourites-se/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>×[LIGHT] Code[/LIGHT][COLOR gray] :[/COLOR][COLOR silver] C[COLOR dimgray]o[/COLOR]d[COLOR dimgray]e[/COLOR]-[COLOR dimgray]E[/COLOR]-[COLOR dimgray]M[/COLOR]a[COLOR dimgray]g[/COLOR]p[COLOR dimgray]i[/COLOR]e[/COLOR][COLOR dimgray][LIGHT][I] (/storage/Code-E-Magpie/)[/I][/LIGHT][/COLOR]</name>
-            <path pathversion="1">/storage/Code-E-Magpie/</path>
+            <name>×[LIGHT] Addon[/LIGHT][COLOR gray] :[/COLOR][COLOR yellow] System Log Toolbox[/COLOR][COLOR dimgray][LIGHT][I] (plugin.program.system-log-toolbox)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/addons/plugin.program.system-log-toolbox/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -71,11 +71,6 @@
         <source>
             <name>×[LIGHT] Files[/LIGHT][COLOR gray] :[/COLOR] Download[COLOR dimgray][LIGHT][I] (/storage/emulated/0/Download/)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">/storage/emulated/0/Download/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>×[LIGHT] Files[/LIGHT][COLOR gray] :[/COLOR] Kodi Backup[COLOR dimgray][LIGHT][I] (/storage/Kodi Backup)[/I][/LIGHT][/COLOR]</name>
-            <path pathversion="1">/storage/Kodi Backup</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -219,6 +214,11 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] dEXEs[/COLOR][COLOR dimgray][LIGHT][I] (Repo Of All Repositories)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">https://deklica.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Diggz[/COLOR][COLOR dimgray][LIGHT][I] (The TV App)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">https://diggz1.me/diggzrepo/</path>
             <allowsharing>true</allowsharing>
@@ -274,18 +274,8 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Narcacist[/COLOR][COLOR dimgray][LIGHT][I] (tvOne)[/I][/LIGHT][/COLOR]</name>
-            <path pathversion="1">https://mylostsoulspace.co.uk/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] peno64[/COLOR][COLOR dimgray][LIGHT][I] (EZ Maintenance+)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">https://peno64.github.io/repository.peno64/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Simple[/COLOR][COLOR dimgray][LIGHT][I] (Simple Repository)[/I][/LIGHT][/COLOR]</name>
-            <path pathversion="1">https://Code-E-Magpie.github.io/repository.simple/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -314,17 +304,12 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] thegigibeast[/COLOR][COLOR dimgray][LIGHT][I] (GitHub repository example)[/I][/LIGHT][/COLOR]</name>
-            <path pathversion="1">https://thegigibeast.github.io/repository</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] TheLab[/COLOR][COLOR dimgray][LIGHT][I] (LNTv / RBTv / SwiftTv / TapTv)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">https://th3l48.github.io/TheLab/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Twisted Nuts[/COLOR][COLOR dimgray][LIGHT][I] (Twisted)[/I][/LIGHT][/COLOR]</name>
+            <name>×[LIGHT] Source[/LIGHT][COLOR gray] :[/COLOR][COLOR orange] Twisted Nutz[/COLOR][COLOR dimgray][LIGHT][I] (Twisted Nutz)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">http://twistednuts.co.uk/repo/</path>
             <allowsharing>true</allowsharing>
         </source>
