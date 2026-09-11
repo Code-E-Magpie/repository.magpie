@@ -114,6 +114,11 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] home[COLOR dimgray][LIGHT][I] (special://home/)[/I][/LIGHT][/COLOR]</name>
+            <path pathversion="1">special://home/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>×[LIGHT] Kodi[/LIGHT][COLOR gray] :[/COLOR] masterprofile[COLOR dimgray][LIGHT][I] (special://masterprofile/)[/I][/LIGHT][/COLOR]</name>
             <path pathversion="1">special://masterprofile/</path>
             <allowsharing>true</allowsharing>
