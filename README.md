@@ -22,13 +22,6 @@ For further details see:<br/>https://kodi.wiki/view/Add-on_manager
 The Abacus Program has a menu of information, tally of Code-E-Magpie development on GitHub and an exit button.
 
 
-# Database Toolbox for Kodi
-
-![icon](https://github.com/Code-E-Magpie/repository.magpie/blob/main/add-ons/plugin.program.database-toolbox/resources/media/icon.png)
-
-For further details see:<br/>https://github.com/Code-E-Magpie/plugin.program.database-toolbox
-
-
 # Maintenance Toolbox for Kodi
 
 ![icon](https://github.com/Code-E-Magpie/repository.magpie/blob/main/add-ons/plugin.program.maintenance-toolbox/resources/media/icon.png)
